@@ -44,18 +44,18 @@ This repository demonstrates:
 
 ---
 
+## Local Setup
+
+### 1) Install dependencies
+```bash
+pip install -r requirements.txt
+
 ## Tech Stack
 
 - Python
 - Gradio (UI)
 
 ---
-
-## Local Setup
-
-### 1) Install dependencies
-```bash
-pip install -r requirements.txt
 
 <img width="1585" height="894" alt="image" src="https://github.com/user-attachments/assets/48f16806-9654-4e3b-bfab-53f86898cf57" />
 <img width="1564" height="796" alt="image" src="https://github.com/user-attachments/assets/4a78c886-9fe0-4c25-944b-809882039744" />
